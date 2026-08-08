@@ -6,9 +6,9 @@ A Hub from the Community to make a list of suggestions of features to apps and w
 <div align="center">
 
 <h2>📈 Trending Hubs</h2>
-<ul>
+<ol>
   <li>Duolingo</li>
-</ul>
+</ol>
 
 
 <hr>
