@@ -59,3 +59,7 @@ A Hub from the Community to make a list of suggestions of features to apps and w
 <h4>Z</h4>
 
 </div>
+<hr>
+<div align="right">
+  This site is open-source. Made with ❤️ by <a href="https://github.com/intensed-dev">Intensed-Dev</a>.
+</div>
