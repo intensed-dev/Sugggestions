@@ -8,6 +8,7 @@ A Hub from the Community to make a list of suggestions of features to apps and w
 <h2>📈 Trending Hubs</h2>
 <ol>
   <li>Duolingo</li>
+  <li>Sugggestions</li>
 </ol>
 
 
@@ -28,6 +29,9 @@ A Hub from the Community to make a list of suggestions of features to apps and w
 <h4>B</h4>
 <h4>C</h4>
 <h4>D</h4>
+<ul>
+  <li>Duolingo</li>
+</ul>
 <h4>E</h4>
 <h4>F</h4>
 <h4>G</h4>
@@ -43,6 +47,9 @@ A Hub from the Community to make a list of suggestions of features to apps and w
 <h4>Q</h4>
 <h4>R</h4>
 <h4>S</h4>
+<ul>
+  <li>Sugggestions</li>
+</ul>
 <h4>T</h4>
 <h4>U</h4>
 <h4>V</h4>
