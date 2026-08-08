@@ -5,7 +5,7 @@ A Hub from the Community to make a list of suggestions of features to apps and w
 
 <div align="center">
 
-<h2>📈 Trending Hubs</h2>
+<h2>📈 Trending Hubs<br><small><em>Top 10 Trending</em></small></h2>
 <ol>
   <li>Duolingo</li>
   <li>Sugggestions</li>
